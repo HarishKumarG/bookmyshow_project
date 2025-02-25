@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'BMS_project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'DB_BMS',
+        'NAME': 'BMS_DB',
         'USER': 'admin',
         'PASSWORD': 'admin@123',
         'HOST': '127.0.0.1',
