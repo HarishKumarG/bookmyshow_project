@@ -1,0 +1,1 @@
+default_app_config = 'BMS_app.apps.BmsAppConfig'
